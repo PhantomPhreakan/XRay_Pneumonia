@@ -1,1 +1,3 @@
-# XRay_Pneumonia
+# XRay Images _Pneumonia detection
+
+
